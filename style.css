@@ -1,8 +1,32 @@
 
-span {
+a {
 font-weight: bold;
+color: red
 }
 
-body 
+body {
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 
-{background-color: burlywood;}
+
+h2 {
+    font-size: 150%;
+    margin-left: 15;
+
+}
+
+h1 {text-align: center;}
+h2 {text-align: center;
+margin-left: 15;}
+
+img{
+    width: 500px;
+    float: right;
+    float: bottom; 
+}
+
+p{
+    text-size-adjust: 200px;
+}
